@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 8d037ab20a9154f23a61bbaf65f1eb6e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: genericOrb_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 356
+        width: 341
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 356
+        width: 343
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_2
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 356
+        width: 344
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_3
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 356
+        width: 343
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_4
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 356
+        width: 343
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_5
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 356
+        width: 344
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_6
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 356
+        width: 345
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_7
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 356
+        width: 345
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_8
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 356
+        width: 345
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 344
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 8
+        width: 341
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_11
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 7
+        width: 341
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_12
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 6
+        width: 342
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_13
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 7
+        width: 337
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_14
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 7
+        width: 339
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_15
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 6
+        width: 340
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_16
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 6
+        width: 340
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: genericOrb_17
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 7
+        width: 338
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
